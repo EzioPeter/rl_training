@@ -37,3 +37,6 @@ _build
 
 
 **/usd/*
+
+# Cache
+.vscode/browse.*
